@@ -13,5 +13,5 @@ I am a doctoral student at the State University of Campinas (UNICAMP), working w
 2. bbot - A Binance Bot for Spot Trading BTC-USDT using a Raspeberry Pi;
 3. ***Unamed yet*** - A open source geophysical software for processing the GeoSGB raw XYZ data (local dev).
 4. DBExp - A geology exploration database software; <img src="icons/lock.svg" width="20" height="20">
-5. gPit - A open-pit optimization tool; <img src="icons/lock.svg" width="20" height="20">
+5. gPit - An open-pit optimization tool; <img src="icons/lock.svg" width="20" height="20">
 6. Soneca - A baby tracker using Django as backend and react native for Android and iOs frontend; <img src="icons/lock.svg" width="20" height="20">
