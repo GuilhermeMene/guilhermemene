@@ -11,7 +11,8 @@ I am a doctoral student at the State University of Campinas (UNICAMP), working w
 
 1. QAQCMin - An open source QAQC software for geology and exploration projects;
 2. bbot - A Binance Bot for Spot Trading BTC-USDT using a Raspeberry Pi;
-3. ***Unamed yet*** - An open source geophysical software for processing the GeoSGB raw XYZ data (local dev).
-4. DBExp - A geology exploration database software; <img src="icons/lock.svg" width="20" height="20">
-5. gPit - An open-pit optimization tool; <img src="icons/lock.svg" width="20" height="20">
-6. Soneca - A baby tracker using Django as backend and react native for Android and iOs frontend; <img src="icons/lock.svg" width="20" height="20">
+3. gPit - An open-pit optimization tool;
+4. ***Unamed yet*** - An open source geophysical software for processing the GeoSGB raw XYZ data (local dev);
+5. B3B - An open source backtesting tool for stocks from yfinance;
+6. DBExp - A geology exploration database software; <img src="icons/lock.svg" width="20" height="20">
+7. Soneca - A baby tracker using Django as backend and react native for Android and iOs frontend; <img src="icons/lock.svg" width="20" height="20">
